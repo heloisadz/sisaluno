@@ -1,0 +1,50 @@
+body{
+    height: 100vh;
+    width: 100%;
+}
+.container{
+    height: 100%;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 200px;
+}
+table.table-striped.table-dark{
+    height: 70%;
+    width: 90%;
+    
+}
+
+table{
+    margin: 200px;
+}
+
+tbody{
+    color: rgb(93, 93, 93);
+    font-size: large;
+}
+
+tr{
+    background-color: rgb(65, 53, 98);
+}
+td{
+    background-color: rgb(208, 198, 233);
+}
+
+
+button{
+    border: none;
+    background-color: rgb(112, 112, 182);
+    border-radius: 5px;
+    color: whitesmoke;
+}
+
+#button3{
+    color: whitesmoke;
+    background-color: aqua;
+}
+a:link{
+    color: whitesmoke;
+}
